@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title></title>
+    <link href="/2023/04/10/1/"/>
+    <url>/2023/04/10/1/</url>
+    
+    <content type="html"><![CDATA[<blockquote><p>printf</p></blockquote><blockquote><p>printf why</p><p>nihao</p></blockquote><p><code>code has a  hello i am a super boy</code></p><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><code class="hljs C"><br><br><br><span class="hljs-meta">#<span class="hljs-keyword">include</span><span class="hljs-string">&lt;cstdio&gt;</span></span><br><span class="hljs-built_in">printf</span>(<span class="hljs-string">&quot;hellp&quot;</span>);<br><br><br><br></code></pre></td></tr></table></figure><h1 id="1"><a href="#1" class="headerlink" title="1"></a>1</h1><h2 id="2"><a href="#2" class="headerlink" title="2"></a>2</h2><p><a href="https://hztbuaa.github.io/">link1</a></p><figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs">1<br></code></pre></td></tr></table></figure><figure class="highlight"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs">1<br></code></pre></td></tr></table></figure><p>here i am<sup id="fnref:1" class="footnote-ref"><a href="#fn:1" rel="footnote"><span class="hint--top hint--rounded" aria-label="this is the note">[1]</span></a></sup></p><h3 id="my-great-heading"><a href="#my-great-heading" class="headerlink" title="my great heading"></a>my great heading</h3><ul><li><p><input checked="" disabled="" type="checkbox"> write the paper</p></li><li><p><input checked="" disabled="" type="checkbox"> learn some tricky</p></li></ul><p>Term1</p><p>:  yes</p><p>:haircut_man:</p><p>:tent:</p><p>:joy:</p><p>:heart_eyes:</p><p>:smile:</p><p>:sob:</p><figure class="highlight xml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><code class="hljs xml"><span class="hljs-tag">&lt;<span class="hljs-name">table</span>&gt;</span>11111111<br>    <span class="hljs-tag">&lt;<span class="hljs-name">tr</span>&gt;</span><br>        <span class="hljs-tag">&lt;<span class="hljs-name">td</span>&gt;</span>Foo<span class="hljs-tag">&lt;/<span class="hljs-name">td</span>&gt;</span><br>    <span class="hljs-tag">&lt;/<span class="hljs-name">tr</span>&gt;</span><br><span class="hljs-tag">&lt;/<span class="hljs-name">table</span>&gt;</span><br></code></pre></td></tr></table></figure><p><a href="#个人简介">跳转到个人简介</a></p><p><a name="个人简介">这是个人简介</a></p><section class="footnotes"><div class="footnote-list"><ol><li><span id="fn:1" class="footnote-text"><span>this is the note<a href="#fnref:1" rev="footnote" class="footnote-backref"> ↩</a></span></span></li></ol></div></section>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="/2023/04/10/hello-world/"/>
+    <url>/2023/04/10/hello-world/</url>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>os-上机-summary</title>
+    <link href="/2023/04/03/os-%E4%B8%8A%E6%9C%BA-summary/"/>
+    <url>/2023/04/03/os-%E4%B8%8A%E6%9C%BA-summary/</url>
+    
+    <content type="html"><![CDATA[<h1 id="OS上机复盘"><a href="#OS上机复盘" class="headerlink" title="OS上机复盘"></a>OS上机复盘</h1><ul><li><h2 id="lab2"><a href="#lab2" class="headerlink" title="lab2"></a>lab2</h2><ul><li><h3 id="exam"><a href="#exam" class="headerlink" title="exam"></a>exam</h3></li><li><img src="/2023/04/03/os-%E4%B8%8A%E6%9C%BA-summary/1.PNG" class=""></li></ul><p><img src="C:\Users\hzt\hexo-blog\source_posts\os-上机-summary\1.PNG"></p><h4 id="对12位的perm-mask和pgdirnum进行二进制的取bit判断时犯错："><a href="#对12位的perm-mask和pgdirnum进行二进制的取bit判断时犯错：" class="headerlink" title="对12位的perm_mask和pgdirnum进行二进制的取bit判断时犯错："></a>对12位的perm_mask和pgdirnum进行二进制的取bit判断时犯错：</h4><figure class="highlight apache"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs apache"><span class="hljs-attribute">if</span>(perm_mask&amp;(<span class="hljs-number">1</span>&lt;&lt;k)==<span class="hljs-number">1</span> &amp;&amp; pgdirnum&amp;(<span class="hljs-number">1</span>&lt;&lt;k)==<span class="hljs-number">0</span>)<br></code></pre></td></tr></table></figure><h4 id="这样是不能达到判断某一位为1的，因为正确的应该是如上图所示"><a href="#这样是不能达到判断某一位为1的，因为正确的应该是如上图所示" class="headerlink" title="这样是不能达到判断某一位为1的，因为正确的应该是如上图所示"></a>这样是不能达到判断某一位为1的，因为正确的应该是如上图所示</h4><p>真是可恶！上机时debug蛮累的，最后还是采取了</p><figure class="highlight 1c"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs 1c">（perm_mask <span class="hljs-meta">&amp; pgdirnum） == perm_mask</span><br></code></pre></td></tr></table></figure><p>来达到子集的判断</p><p>写出来后才发现这tm不就是A and B &#x3D; B iff B is a sub-collection of A吗！？</p><p><del>上机时自己就是个蠢逼</del></p><p>还有刚开始没有用页目录项–&gt;二级页表项进行遍历，而是试图用</p><figure class="highlight apache"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs apache"><span class="hljs-attribute">pgdir</span> + i（i = <span class="hljs-number">0</span>~<span class="hljs-number">1024</span>*<span class="hljs-number">1024</span>）<br></code></pre></td></tr></table></figure><p>这样会导致超出memory read的报错</p><p>原因是这个pgdir并非是4MB页表的基地址！！！！！！</p><p>好好学页表自映射相关知识点后，应该就懂了</p><img src="/2023/04/03/os-%E4%B8%8A%E6%9C%BA-summary/2.PNG" class=""><p><img src="C:\Users\hzt\hexo-blog\source_posts\os-上机-summary\2.PNG"></p><p>这里的pgdir指针只是指向PDBase区域 而不是PTBase  所以上面的<del>蠢</del>方法可能会导致读到不能读的区域</p><p>具体为什么会不能读呢？</p><p>大概率可能是读到了invalid memory</p><img src="/2023/04/03/os-%E4%B8%8A%E6%9C%BA-summary/3.PNG" class=""><p><img src="C:\Users\hzt\hexo-blog\source_posts\os-上机-summary\3.PNG"></p><h4 id="tips"><a href="#tips" class="headerlink" title="tips:"></a>tips:</h4><ul><li><p>页表是在内存中的，也就是在kseg0区域的0x8040_0000~Physicak Memory Max中（的4MB部分，也就是PDMAP部分），而一个页表所占的4MB也就是一个页目录项所表示的范围大小，所以……..很神奇的！ </p></li><li><p>图中的pages是pages控制块的虚拟地址（与物理内存中的pages数组物理地址相mapping） <strong>是公共的</strong>？</p></li><li><h5 id="还有那个envs-暂时还没看完lab3-x3D-x3D-看完再来补充-x3D-x3D"><a href="#还有那个envs-暂时还没看完lab3-x3D-x3D-看完再来补充-x3D-x3D" class="headerlink" title="还有那个envs  暂时还没看完lab3 &#x3D;&#x3D;看完再来补充&#x3D;&#x3D;"></a>还有那个envs  暂时还没看完lab3 &#x3D;&#x3D;看完再来补充&#x3D;&#x3D;</h5></li><li><p><input disabled="" type="checkbox"> </p><h3 id="extra"><a href="#extra" class="headerlink" title="extra"></a>extra</h3><ul><li>主要还是语文阅读理解不太行</li><li>有佬写的代码分享 有时间再整理这个 已经好晚了 睡了——–2023.4.3</li></ul></li></ul></li></ul><p>​</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>学习</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>OS</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Happy Birthday</title>
+    <link href="/2023/04/03/HappyBirthday/"/>
+    <url>/2023/04/03/HappyBirthday/</url>
+    
+    <content type="html"><![CDATA[<h1 id="祝黄宇庭生日快乐！"><a href="#祝黄宇庭生日快乐！" class="headerlink" title="祝黄宇庭生日快乐！"></a>祝黄宇庭生日快乐！</h1><h1 id="Happy-Birthday！"><a href="#Happy-Birthday！" class="headerlink" title="Happy Birthday！"></a>Happy Birthday！</h1>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>生活</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>ForMyCutie</title>
+    <link href="/2023/04/02/ForMyCutie/"/>
+    <url>/2023/04/02/ForMyCutie/</url>
+    
+    <content type="html"><![CDATA[<h1 id="纪念自己的第一个博客网页"><a href="#纪念自己的第一个博客网页" class="headerlink" title="纪念自己的第一个博客网页"></a>纪念自己的第一个博客网页</h1><img src="/2023/04/02/ForMyCutie/1.PNG" class="">]]></content>
+    
+    
+    <categories>
+      
+      <category>生活</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>原创</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  
+</search>
